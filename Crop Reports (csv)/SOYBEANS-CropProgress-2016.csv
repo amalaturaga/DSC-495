@@ -1,0 +1,34 @@
+YEAR,LOCATION,"STATE ANSI","ASD CODE","COUNTY ANSI","REFERENCE PERIOD",COMMODITY,"WEEK ENDING","PROGRESS in PCT PLANTED","PROGRESS, 5 YEAR AVG in PCT PLANTED","PROGRESS, PREVIOUS YEAR in PCT PLANTED","PROGRESS in PCT EMERGED","PROGRESS, 5 YEAR AVG in PCT EMERGED","PROGRESS, PREVIOUS YEAR in PCT EMERGED","PROGRESS in PCT BLOOMING","PROGRESS, 5 YEAR AVG in PCT BLOOMING","PROGRESS, PREVIOUS YEAR in PCT BLOOMING","PROGRESS in PCT SETTING PODS","PROGRESS, 5 YEAR AVG in PCT SETTING PODS","PROGRESS, PREVIOUS YEAR in PCT SETTING PODS","PROGRESS in PCT DROPPING LEAVES","PROGRESS, 5 YEAR AVG in PCT DROPPING LEAVES","PROGRESS, PREVIOUS YEAR in PCT DROPPING LEAVES","PROGRESS in PCT HARVESTED","PROGRESS, 5 YEAR AVG in PCT HARVESTED","PROGRESS, PREVIOUS YEAR in PCT HARVESTED"
+2016,"NORTH CAROLINA",37," "," ","WEEK #15",SOYBEANS,2016-04-17,0,0,0," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #16",SOYBEANS,2016-04-24,1,2,1," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #17",SOYBEANS,2016-05-01,5,3,1," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #18",SOYBEANS,2016-05-08,10,10,9," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #19",SOYBEANS,2016-05-15,24,21,22,5,7,6," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #20",SOYBEANS,2016-05-22,32,34,41,16,16,16," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #21",SOYBEANS,2016-05-29,46,45,53,29,28,29," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #22",SOYBEANS,2016-06-05,57,55,59,42,42,42," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #23",SOYBEANS,2016-06-12,67,64,67,56,51,53," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #24",SOYBEANS,2016-06-19,79,75,78,68,63,64," "," "," "," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #25",SOYBEANS,2016-06-26,88,84,88,77,74,75,1,2,3," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #26",SOYBEANS,2016-07-03,96,90,95,89,85,86,13,8,11," "," "," "," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #27",SOYBEANS,2016-07-10,98,94,97,94,90,93,25,17,22,2,3,2," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #28",SOYBEANS,2016-07-17," "," "," ",98,93,97,32,27,34,14,9,12," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #29",SOYBEANS,2016-07-24," "," "," ",100,97,99,46,39,44,23,16,20," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #30",SOYBEANS,2016-07-31," "," "," "," "," "," ",66,51,56,37,25,31," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #31",SOYBEANS,2016-08-07," "," "," "," "," "," ",76,64,69,47,35,41," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #32",SOYBEANS,2016-08-14," "," "," "," "," "," ",84,75,78,64,46,53," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #33",SOYBEANS,2016-08-21," "," "," "," "," "," ",93,83,88,75,61,65," "," "," "," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #34",SOYBEANS,2016-08-28," "," "," "," "," "," ",96,88,94,84,75,77,5,2,6," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #35",SOYBEANS,2016-09-04," "," "," "," "," "," ",98,94,96,91,86,86,11,6,12," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #36",SOYBEANS,2016-09-11," "," "," "," "," "," ",99,97,98,95,91,92,18,12,21," "," "," "
+2016,"NORTH CAROLINA",37," "," ","WEEK #37",SOYBEANS,2016-09-18," "," "," "," "," "," ",100,98,100,97,94,95,30,19,31,4,1,1
+2016,"NORTH CAROLINA",37," "," ","WEEK #38",SOYBEANS,2016-09-25," "," "," "," "," "," "," "," "," ",99,96,98,44,28,41,6,2,4
+2016,"NORTH CAROLINA",37," "," ","WEEK #39",SOYBEANS,2016-10-02," "," "," "," "," "," "," "," "," ",100,98,100,52,38,51,9,4,6
+2016,"NORTH CAROLINA",37," "," ","WEEK #40",SOYBEANS,2016-10-09," "," "," "," "," "," "," "," "," "," "," "," ",62,52,63,11,6,8
+2016,"NORTH CAROLINA",37," "," ","WEEK #41",SOYBEANS,2016-10-16," "," "," "," "," "," "," "," "," "," "," "," ",70,66,74,15,10,13
+2016,"NORTH CAROLINA",37," "," ","WEEK #42",SOYBEANS,2016-10-23," "," "," "," "," "," "," "," "," "," "," "," ",84,77,86,24,17,23
+2016,"NORTH CAROLINA",37," "," ","WEEK #43",SOYBEANS,2016-10-30," "," "," "," "," "," "," "," "," "," "," "," ",92,90,93,38,24,33
+2016,"NORTH CAROLINA",37," "," ","WEEK #44",SOYBEANS,2016-11-06," "," "," "," "," "," "," "," "," "," "," "," ",96,96,96,50,33,40
+2016,"NORTH CAROLINA",37," "," ","WEEK #45",SOYBEANS,2016-11-13," "," "," "," "," "," "," "," "," "," "," "," ",99,99,99,62,44,48
+2016,"NORTH CAROLINA",37," "," ","WEEK #46",SOYBEANS,2016-11-20," "," "," "," "," "," "," "," "," "," "," "," "," "," "," ",73,58,56
+2016,"NORTH CAROLINA",37," "," ","WEEK #47",SOYBEANS,2016-11-27," "," "," "," "," "," "," "," "," "," "," "," "," "," "," ",80,71,67

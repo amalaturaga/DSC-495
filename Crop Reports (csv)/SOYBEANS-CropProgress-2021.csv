@@ -1,0 +1,34 @@
+YEAR,LOCATION,"STATE ANSI","ASD CODE","COUNTY ANSI","REFERENCE PERIOD",COMMODITY,"WEEK ENDING","PROGRESS in PCT PLANTED","PROGRESS, 5 YEAR AVG in PCT PLANTED","PROGRESS, PREVIOUS YEAR in PCT PLANTED","PROGRESS in PCT EMERGED","PROGRESS, 5 YEAR AVG in PCT EMERGED","PROGRESS, PREVIOUS YEAR in PCT EMERGED","PROGRESS in PCT BLOOMING","PROGRESS, 5 YEAR AVG in PCT BLOOMING","PROGRESS, PREVIOUS YEAR in PCT BLOOMING","PROGRESS in PCT SETTING PODS","PROGRESS, 5 YEAR AVG in PCT SETTING PODS","PROGRESS, PREVIOUS YEAR in PCT SETTING PODS","PROGRESS in PCT DROPPING LEAVES","PROGRESS, 5 YEAR AVG in PCT DROPPING LEAVES","PROGRESS, PREVIOUS YEAR in PCT DROPPING LEAVES","PROGRESS in PCT HARVESTED","PROGRESS, 5 YEAR AVG in PCT HARVESTED","PROGRESS, PREVIOUS YEAR in PCT HARVESTED"
+2021,"NORTH CAROLINA",37," "," ","WEEK #15",SOYBEANS,2021-04-18,2,0,1," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #16",SOYBEANS,2021-04-25,14,3,4," "," "," "," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #17",SOYBEANS,2021-05-02,19,8,9,3,1,1," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #18",SOYBEANS,2021-05-09,26,15,16,9,5,5," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #19",SOYBEANS,2021-05-16,39,28,31,22,12,15," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #20",SOYBEANS,2021-05-23,52,41,45,37,25,30," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #21",SOYBEANS,2021-05-30,60,51,54,47,37,41," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #22",SOYBEANS,2021-06-06,72,62,66,58,48,51," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #23",SOYBEANS,2021-06-13,77,72,76,67,60,63," "," "," "," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #24",SOYBEANS,2021-06-20,84,81,80,75,70,74,0,1,1," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #25",SOYBEANS,2021-06-27,91,88,83,82,79,78,5,5,7," "," "," "," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #26",SOYBEANS,2021-07-04,95,94,89,88,87,82,13,15,19,1,1,0," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #27",SOYBEANS,2021-07-11,98,97,93,94,93,89,22,26,30,9,6,9," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #28",SOYBEANS,2021-07-18," "," "," ",97,97,93,37,37,39,20,16,22," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #29",SOYBEANS,2021-07-25," "," "," ",99,99,97,54,49,50,28,27,33," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #30",SOYBEANS,2021-08-01," "," "," "," "," "," ",62,63,59,35,38,39," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #31",SOYBEANS,2021-08-08," "," "," "," "," "," ",74,75,72,46,49,49," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #32",SOYBEANS,2021-08-15," "," "," "," "," "," ",86,85,86,64,61,60," "," "," "," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #33",SOYBEANS,2021-08-22," "," "," "," "," "," ",93,92,93,77,71,74,1,1,1," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #34",SOYBEANS,2021-08-29," "," "," "," "," "," ",98,96,97,86,81,83,7,5,4," "," "," "
+2021,"NORTH CAROLINA",37," "," ","WEEK #35",SOYBEANS,2021-09-05," "," "," "," "," "," ",100,98,99,93,90,93,11,12,9,0,0,0
+2021,"NORTH CAROLINA",37," "," ","WEEK #36",SOYBEANS,2021-09-12," "," "," "," "," "," "," "," "," ",96,95,98,23,21,17,0,1,0
+2021,"NORTH CAROLINA",37," "," ","WEEK #37",SOYBEANS,2021-09-19," "," "," "," "," "," "," "," "," ",98,98,99,35,32,25,1,4,1
+2021,"NORTH CAROLINA",37," "," ","WEEK #38",SOYBEANS,2021-09-26," "," "," "," "," "," "," "," "," ",99,99,100,51,44,37,5,7,4
+2021,"NORTH CAROLINA",37," "," ","WEEK #39",SOYBEANS,2021-10-03," "," "," "," "," "," "," "," "," "," "," "," ",62,57,48,10,11,8
+2021,"NORTH CAROLINA",37," "," ","WEEK #40",SOYBEANS,2021-10-10," "," "," "," "," "," "," "," "," "," "," "," ",77,70,61,16,16,13
+2021,"NORTH CAROLINA",37," "," ","WEEK #41",SOYBEANS,2021-10-17," "," "," "," "," "," "," "," "," "," "," "," ",86,80,74,19,22,17
+2021,"NORTH CAROLINA",37," "," ","WEEK #42",SOYBEANS,2021-10-24," "," "," "," "," "," "," "," "," "," "," "," ",93,89,83,28,29,21
+2021,"NORTH CAROLINA",37," "," ","WEEK #43",SOYBEANS,2021-10-31," "," "," "," "," "," "," "," "," "," "," "," ",96,95,93,43,38,28
+2021,"NORTH CAROLINA",37," "," ","WEEK #44",SOYBEANS,2021-11-07," "," "," "," "," "," "," "," "," "," "," "," "," "," "," ",57,49,43
+2021,"NORTH CAROLINA",37," "," ","WEEK #45",SOYBEANS,2021-11-14," "," "," "," "," "," "," "," "," "," "," "," "," "," "," ",66,57,52
+2021,"NORTH CAROLINA",37," "," ","WEEK #46",SOYBEANS,2021-11-21," "," "," "," "," "," "," "," "," "," "," "," "," "," "," ",77,65,61
+2021,"NORTH CAROLINA",37," "," ","WEEK #47",SOYBEANS,2021-11-28," "," "," "," "," "," "," "," "," "," "," "," "," "," "," ",86,75,75
